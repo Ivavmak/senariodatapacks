@@ -9,22 +9,6 @@ body {
     background-color: #333;
 }
 
-.button {
-    position: relative;
-    display: inline-block;
-    padding: 15px 30px;
-    color: 2196f3;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 24px;
-    letter-spacing: 4px;
-    overflow: hidden;
-}
-.button:hover {
-    box-shadow: 0 0 10px 2196f3, 0 0 40px 2196f3, 0 0 80px 2196f3;
-    background-color: 2196f3;
-    color: #333;
-}
 .text {
     border-color: #4dc247;
     box-shadow: 0 0 15px #4dc247;
