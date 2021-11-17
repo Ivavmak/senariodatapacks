@@ -10,7 +10,5 @@ body {
 }
 
 .text {
-    border-color: #4dc247;
-    background-color: #4dc247;
-    box-shadow: 0 0 15px #4dc247;
+    background: linear-gradient(135deg, #ffec61, #f321d7);
 }
