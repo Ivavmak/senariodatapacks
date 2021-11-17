@@ -4,12 +4,13 @@ body {
     display: flex;
     justify-content: center;
     aling-items: center;
-    height: 100vh;
+    height: 15vh;
     font-family: Consolas
     background-color: #333;
 }
 
 .text {
     border-color: #4dc247;
-    box-shadow: 0 0 3px #4dc247;
+    background-color: #4dc247;
+    box-shadow: 0 0 15px #4dc247;
 }
