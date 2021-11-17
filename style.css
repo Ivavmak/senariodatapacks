@@ -1,3 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+    height: 100vh;
+    font-family: Consolas
+    background: #333;
+}
+
 .button {
     position: relative;
     display: inline-block;
