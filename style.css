@@ -11,5 +11,5 @@ body {
 
 .text {
     background: linear-gradient(135deg, #ffec61, #f321d7);
-    blur: 15px;
+    box-shadow: -10px 10px 90px linear-gradient(135deg, #ffec61, #f321d7);
 }
